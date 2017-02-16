@@ -1,0 +1,1 @@
+Code created as an exercise. It is a simple JavaScript client for the scala-akka-http-calculator service.
